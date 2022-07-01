@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu me chamo Breno Vital</h1>
 <h3 align="center">Estudante de desenvolvimento Front-End, cursando sistemas de informação</h3>
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=brenovital&label=Profile%20views&color=0e75b6&style=flat" alt="brenovital" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=brenovital&label=Profile%20views&color=0e75b6&style=flat" alt="brenovital" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brenovital" alt="brenovital " /></a> </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenovital&show_icons=true&theme=radical)
 
 - 🔭 No momento estou trabalhando no meu [Portfólio](http://brenovital.me/Portfolio/)
 
@@ -11,23 +11,21 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [http://brenovital.me/Portfolio/](http://brenovital.me/Portfolio/)
 
-- 💬 Pergunte-me sobre **JavaScript | BootStrap | CSS**
+- 💬 Pergunte-me sobre **JavaScript | BootStrap | CSS | HTML**
 
 - 📫 Como chegar até mim **brenovital50@gmail.com**
 
-- 📄 Conheça meu curriculo [https://drive.google.com/drive/folders/1gqQ5KkauWIyqFIrgRk2-_wNrh6h__vjr](https://drive.google .com/drive/folders/1gqQ5KkauWIyqFIrgRk2-_wNrh6h__vjr)
+- 📄 Conheça meu curriculo https://drive.google.com/drive/folders/1gqQ5KkauWIyqFIrgRk2-_wNrh6h__vjr
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ https://www.linkedin.com/in/breno-vital-020405123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/breno-vital-020405123/" height="30" largura="40" /><
-<a href="https://instagram.com/@brenovitall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/instagram.svg" alt="@brenovitall" height="30" width="40" /></a>
-</p>
+<h3 align="left">Sociais:</h3>
 
-<h3 align="left"> Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> < /a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw. githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>//developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/ icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>//developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/ icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenovitall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-vital-020405123/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]() [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+
+<h3 align="left">Tecnologias:</h3>
+
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]() [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]() 
+<h3 align="left">Softwares que utilizo para estudos e projetos:</h3>
+
+[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]() [![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)]() [![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]() [![](https://img.shields.io/badge/Windows-AMD-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenovital&show_icons=true&locale=en&layout=compact" alt="brenovital" /> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=brenovital&show_icons=true&locale=en" alt="brenovital" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brenovital&" alt="brenovital" /></p>
