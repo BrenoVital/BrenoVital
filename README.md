@@ -7,7 +7,7 @@
 
 - 🔭 No momento estou trabalhando no meu [Portfólio](http://brenovital.me/Portfolio/)
 
-- 🌱 Atualmente estou aprendendo linguagem Web **com os cursos da Rocketseat**
+- 🌱 Atualmente estou aprendendo linguagem Web **com os cursos da Dio.me**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [http://brenovital.me/Portfolio/](http://brenovital.me/Portfolio/)
 
