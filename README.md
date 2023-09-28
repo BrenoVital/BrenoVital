@@ -1,17 +1,14 @@
 <h1 align="center">Olá 👋, Eu me chamo Breno Vital</h1>
-<h3 align="center">Estudante de desenvolvimento Front-End, cursando sistemas de informação</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=brenovital&label=Profile%20views&color=0e75b6&style=flat" alt="brenovital" /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenovital&show_icons=true&theme=radical)
 
-- 🔭 No momento estou trabalhando no meu [Portfólio](http://brenovital.me/Portfolio/)
-
-- 🌱 Atualmente estou aprendendo linguagem Web **com os cursos da Dio.me**
+- 🔭 No momento estou trabalhando como desenvolvedor frontEnd
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [http://brenovital.me/Portfolio/](http://brenovital.me/Portfolio/)
 
-- 💬 Pergunte-me sobre **JavaScript | BootStrap | CSS | HTML**
+- 💬 Pergunte-me sobre **JavaScript | BootStrap | CSS | HTML | MaterialUI | Typescript | React**
 
 - 📫 Como chegar até mim **brenovital50@gmail.com**
 
