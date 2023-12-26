@@ -4,9 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenovital&show_icons=true&theme=radical)
 
-- 🔭 No momento estou trabalhando como desenvolvedor frontEnd
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [http://brenovital.me/Portfolio/](http://brenovital.me/Portfolio/)
+- 🔭 No momento estou trabalhando como desenvolvedor frontEnd.
 
 - 💬 Pergunte-me sobre **JavaScript | BootStrap | CSS | HTML | MaterialUI | Typescript | React**
 
