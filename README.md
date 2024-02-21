@@ -6,7 +6,7 @@
 
 - 🔭 No momento estou trabalhando como desenvolvedor frontEnd.
 
-- 💬 Pergunte-me sobre **JavaScript | BootStrap | CSS | HTML | MaterialUI | Typescript | React**
+- 💬 Pergunte-me sobre **HTML | CSS | JavaScript | Typescript | ReactTs | BootStrap | MaterialUI |**
 
 - 📫 Como chegar até mim **brenovital50@gmail.com**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Sociais:</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenovitall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-vital-020405123/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]() [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brenovital)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-vital-020405123/) 
 
 <h3 align="left">Tecnologias:</h3>
 
